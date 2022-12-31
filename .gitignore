@@ -1,0 +1,3 @@
+./data/model_detect_spam_email_NB.joblib
+./data/labels.npy
+./data/matrixs.npy
