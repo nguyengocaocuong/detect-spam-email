@@ -9,7 +9,7 @@ pip install pandas
 pip install tqdm
 pip install nltk
 pip install scikit-learn
- pip install matplotlib
+pip install matplotlib
 ```
 ### Run project
 ```

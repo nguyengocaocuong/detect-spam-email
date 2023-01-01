@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import joblib
+from verify_data  import *
 
 def main():
 
@@ -17,7 +18,6 @@ def main():
         print("0. Exist")
         print("Enter you email number: ")
         email_number = int(input())
-        print(email_number)
         if email_number == 0:
             break
         email = ""
